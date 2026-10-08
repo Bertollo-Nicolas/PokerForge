@@ -1,0 +1,36 @@
+name: Rust
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  test:
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+        with:
+          components: rustfmt, clippy
+      - run: cargo fmt --check
+      - run: cargo fmt --manifest-path fuzz/Cargo.toml --check
+      - run: cargo clippy --locked --all-targets -- -D warnings
+      - run: cargo test --locked --release
+      - run: cargo run --locked --release --example fuzz_smoke -- 20000
+      - run: cargo run --locked --release -- tests/fixtures --stream-bytes 17
+  fuzz:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@nightly
+      - run: cargo install cargo-fuzz --locked
+      - run: mkdir -p fuzz/corpus/parser && cp tests/fixtures/*.txt fuzz/corpus/parser/
+      - run: cargo fuzz run parser -- -max_total_time=30 -max_len=65536
+      - uses: actions/upload-artifact@v4
+        if: failure()
+        with:
+          name: fuzz-failures
+          path: fuzz/artifacts
+          if-no-files-found: ignore

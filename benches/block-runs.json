@@ -1,0 +1,122 @@
+[
+  {
+    "Variant": "single",
+    "Run": 1,
+    "Workers": "1",
+    "Seconds": 1.218612,
+    "MBps": 448.12,
+    "Hands": "615800",
+    "Players": "3694800",
+    "Actions": "5409200",
+    "Errors": "0",
+    "Checksum": "886a86950a55cd00"
+  },
+  {
+    "Variant": "blocks",
+    "Run": 1,
+    "Workers": "4",
+    "Seconds": 0.416267,
+    "MBps": 1311.86,
+    "Hands": "615800",
+    "Players": "3694800",
+    "Actions": "5409200",
+    "Errors": "0",
+    "Checksum": "886a86950a55cd00"
+  },
+  {
+    "Variant": "blocks",
+    "Run": 2,
+    "Workers": "4",
+    "Seconds": 0.440349,
+    "MBps": 1240.12,
+    "Hands": "615800",
+    "Players": "3694800",
+    "Actions": "5409200",
+    "Errors": "0",
+    "Checksum": "886a86950a55cd00"
+  },
+  {
+    "Variant": "single",
+    "Run": 2,
+    "Workers": "1",
+    "Seconds": 1.255372,
+    "MBps": 435.0,
+    "Hands": "615800",
+    "Players": "3694800",
+    "Actions": "5409200",
+    "Errors": "0",
+    "Checksum": "886a86950a55cd00"
+  },
+  {
+    "Variant": "single",
+    "Run": 3,
+    "Workers": "1",
+    "Seconds": 1.191556,
+    "MBps": 458.3,
+    "Hands": "615800",
+    "Players": "3694800",
+    "Actions": "5409200",
+    "Errors": "0",
+    "Checksum": "886a86950a55cd00"
+  },
+  {
+    "Variant": "blocks",
+    "Run": 3,
+    "Workers": "4",
+    "Seconds": 0.402958,
+    "MBps": 1355.19,
+    "Hands": "615800",
+    "Players": "3694800",
+    "Actions": "5409200",
+    "Errors": "0",
+    "Checksum": "886a86950a55cd00"
+  },
+  {
+    "Variant": "blocks",
+    "Run": 4,
+    "Workers": "4",
+    "Seconds": 0.434205,
+    "MBps": 1257.67,
+    "Hands": "615800",
+    "Players": "3694800",
+    "Actions": "5409200",
+    "Errors": "0",
+    "Checksum": "886a86950a55cd00"
+  },
+  {
+    "Variant": "single",
+    "Run": 4,
+    "Workers": "1",
+    "Seconds": 1.258566,
+    "MBps": 433.9,
+    "Hands": "615800",
+    "Players": "3694800",
+    "Actions": "5409200",
+    "Errors": "0",
+    "Checksum": "886a86950a55cd00"
+  },
+  {
+    "Variant": "single",
+    "Run": 5,
+    "Workers": "1",
+    "Seconds": 1.226198,
+    "MBps": 445.35,
+    "Hands": "615800",
+    "Players": "3694800",
+    "Actions": "5409200",
+    "Errors": "0",
+    "Checksum": "886a86950a55cd00"
+  },
+  {
+    "Variant": "blocks",
+    "Run": 5,
+    "Workers": "4",
+    "Seconds": 0.398425,
+    "MBps": 1370.61,
+    "Hands": "615800",
+    "Players": "3694800",
+    "Actions": "5409200",
+    "Errors": "0",
+    "Checksum": "886a86950a55cd00"
+  }
+]

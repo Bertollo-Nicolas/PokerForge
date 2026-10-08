@@ -1,0 +1,38 @@
+Winamax Poker - CashGame - HandId: #1-2-1781953322 - Holdem no limit (0.01€/0.02€) - 2026/06/20 11:02:02 UTC
+Table: 'Synthetic' 3-max (real money) Seat #3 is the button
+Seat 1: Alice (2€)
+Seat 2: Bob (2€)
+Seat 3: Charlie (2€)
+*** ANTE/BLINDS ***
+Alice posts small blind 0.01€
+Bob posts big blind 0.02€
+Charlie posts big blind 0.02€ out of position
+*** PRE-FLOP ***
+Charlie checks
+Alice calls 0.01€
+Bob checks
+*** FLOP *** [As Kd Qc]
+Alice checks
+Bob checks
+Charlie checks
+*** TURN *** [As Kd Qc][Jh]
+Alice checks
+Bob checks
+Charlie checks
+*** RIVER *** [As Kd Qc Jh][Ts]
+Alice checks
+Bob checks
+Charlie checks
+*** SHOW DOWN ***
+Alice shows [2c 3c] (Straight Ace high)
+Bob shows [4c 5c] (Straight Ace high)
+Charlie shows [6c 7c] (Straight Ace high)
+Alice collected 0.02€ from pot
+Bob collected 0.02€ from pot
+Charlie collected 0.02€ from pot
+*** SUMMARY ***
+Total pot 0.06€ | No rake
+Board: [As Kd Qc Jh Ts]
+Seat 1: Alice won 0.02€
+Seat 2: Bob won 0.02€
+Seat 3: Charlie won 0.02€

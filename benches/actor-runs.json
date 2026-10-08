@@ -1,0 +1,112 @@
+[
+  {
+    "Variant": "before",
+    "Run": 1,
+    "MBps": 582.7,
+    "Seconds": "2.899531",
+    "Hands": "2013810",
+    "Players": "10470840",
+    "Actions": "15754620",
+    "Errors": "0",
+    "Checksum": "e5d8aa127b5eb2a0"
+  },
+  {
+    "Variant": "loop",
+    "Run": 1,
+    "MBps": 600.5,
+    "Seconds": "2.813623",
+    "Hands": "2013810",
+    "Players": "10470840",
+    "Actions": "15754620",
+    "Errors": "0",
+    "Checksum": "e5d8aa127b5eb2a0"
+  },
+  {
+    "Variant": "loop",
+    "Run": 2,
+    "MBps": 596.56,
+    "Seconds": "2.832179",
+    "Hands": "2013810",
+    "Players": "10470840",
+    "Actions": "15754620",
+    "Errors": "0",
+    "Checksum": "e5d8aa127b5eb2a0"
+  },
+  {
+    "Variant": "before",
+    "Run": 2,
+    "MBps": 578.17,
+    "Seconds": "2.922292",
+    "Hands": "2013810",
+    "Players": "10470840",
+    "Actions": "15754620",
+    "Errors": "0",
+    "Checksum": "e5d8aa127b5eb2a0"
+  },
+  {
+    "Variant": "before",
+    "Run": 3,
+    "MBps": 583.88,
+    "Seconds": "2.893681",
+    "Hands": "2013810",
+    "Players": "10470840",
+    "Actions": "15754620",
+    "Errors": "0",
+    "Checksum": "e5d8aa127b5eb2a0"
+  },
+  {
+    "Variant": "loop",
+    "Run": 3,
+    "MBps": 596.47,
+    "Seconds": "2.832603",
+    "Hands": "2013810",
+    "Players": "10470840",
+    "Actions": "15754620",
+    "Errors": "0",
+    "Checksum": "e5d8aa127b5eb2a0"
+  },
+  {
+    "Variant": "loop",
+    "Run": 4,
+    "MBps": 590.22,
+    "Seconds": "2.862599",
+    "Hands": "2013810",
+    "Players": "10470840",
+    "Actions": "15754620",
+    "Errors": "0",
+    "Checksum": "e5d8aa127b5eb2a0"
+  },
+  {
+    "Variant": "before",
+    "Run": 4,
+    "MBps": 573.01,
+    "Seconds": "2.948562",
+    "Hands": "2013810",
+    "Players": "10470840",
+    "Actions": "15754620",
+    "Errors": "0",
+    "Checksum": "e5d8aa127b5eb2a0"
+  },
+  {
+    "Variant": "before",
+    "Run": 5,
+    "MBps": 575.42,
+    "Seconds": "2.936217",
+    "Hands": "2013810",
+    "Players": "10470840",
+    "Actions": "15754620",
+    "Errors": "0",
+    "Checksum": "e5d8aa127b5eb2a0"
+  },
+  {
+    "Variant": "loop",
+    "Run": 5,
+    "MBps": 590.77,
+    "Seconds": "2.859938",
+    "Hands": "2013810",
+    "Players": "10470840",
+    "Actions": "15754620",
+    "Errors": "0",
+    "Checksum": "e5d8aa127b5eb2a0"
+  }
+]

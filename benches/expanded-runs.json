@@ -1,0 +1,112 @@
+[
+  {
+    "Threads": 1,
+    "Run": 1,
+    "Seconds": 1.546105,
+    "MBps": 365.76,
+    "Hands": "671270",
+    "Players": "3490280",
+    "Actions": "5251540",
+    "Errors": "2750",
+    "Checksum": "4c9d8e06291f90e0"
+  },
+  {
+    "Threads": 1,
+    "Run": 2,
+    "Seconds": 1.650606,
+    "MBps": 342.6,
+    "Hands": "671270",
+    "Players": "3490280",
+    "Actions": "5251540",
+    "Errors": "2750",
+    "Checksum": "4c9d8e06291f90e0"
+  },
+  {
+    "Threads": 1,
+    "Run": 3,
+    "Seconds": 1.643544,
+    "MBps": 344.07,
+    "Hands": "671270",
+    "Players": "3490280",
+    "Actions": "5251540",
+    "Errors": "2750",
+    "Checksum": "4c9d8e06291f90e0"
+  },
+  {
+    "Threads": 1,
+    "Run": 4,
+    "Seconds": 1.630668,
+    "MBps": 346.79,
+    "Hands": "671270",
+    "Players": "3490280",
+    "Actions": "5251540",
+    "Errors": "2750",
+    "Checksum": "4c9d8e06291f90e0"
+  },
+  {
+    "Threads": 1,
+    "Run": 5,
+    "Seconds": 1.762526,
+    "MBps": 320.84,
+    "Hands": "671270",
+    "Players": "3490280",
+    "Actions": "5251540",
+    "Errors": "2750",
+    "Checksum": "4c9d8e06291f90e0"
+  },
+  {
+    "Threads": 4,
+    "Run": 1,
+    "Seconds": 0.697999,
+    "MBps": 810.17,
+    "Hands": "671270",
+    "Players": "3490280",
+    "Actions": "5251540",
+    "Errors": "2750",
+    "Checksum": "4c9d8e06291f90e0"
+  },
+  {
+    "Threads": 4,
+    "Run": 2,
+    "Seconds": 0.579391,
+    "MBps": 976.02,
+    "Hands": "671270",
+    "Players": "3490280",
+    "Actions": "5251540",
+    "Errors": "2750",
+    "Checksum": "4c9d8e06291f90e0"
+  },
+  {
+    "Threads": 4,
+    "Run": 3,
+    "Seconds": 0.667623,
+    "MBps": 847.03,
+    "Hands": "671270",
+    "Players": "3490280",
+    "Actions": "5251540",
+    "Errors": "2750",
+    "Checksum": "4c9d8e06291f90e0"
+  },
+  {
+    "Threads": 4,
+    "Run": 4,
+    "Seconds": 0.671555,
+    "MBps": 842.07,
+    "Hands": "671270",
+    "Players": "3490280",
+    "Actions": "5251540",
+    "Errors": "2750",
+    "Checksum": "4c9d8e06291f90e0"
+  },
+  {
+    "Threads": 4,
+    "Run": 5,
+    "Seconds": 0.598642,
+    "MBps": 944.63,
+    "Hands": "671270",
+    "Players": "3490280",
+    "Actions": "5251540",
+    "Errors": "2750",
+    "Checksum": "4c9d8e06291f90e0"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "Variant": "baseline",
+    "Run": 1,
+    "Seconds": 1.656379,
+    "MBps": 340.01,
+    "Hands": "671270",
+    "Players": "3490280",
+    "Actions": "5251540",
+    "Errors": "0",
+    "Checksum": "4c9d8e06291f90e0"
+  },
+  {
+    "Variant": "memchr",
+    "Run": 1,
+    "Seconds": 1.140124,
+    "MBps": 493.97,
+    "Hands": "671270",
+    "Players": "3490280",
+    "Actions": "5251540",
+    "Errors": "0",
+    "Checksum": "4c9d8e06291f90e0"
+  },
+  {
+    "Variant": "memchr",
+    "Run": 2,
+    "Seconds": 1.143234,
+    "MBps": 492.63,
+    "Hands": "671270",
+    "Players": "3490280",
+    "Actions": "5251540",
+    "Errors": "0",
+    "Checksum": "4c9d8e06291f90e0"
+  },
+  {
+    "Variant": "baseline",
+    "Run": 2,
+    "Seconds": 1.577687,
+    "MBps": 356.97,
+    "Hands": "671270",
+    "Players": "3490280",
+    "Actions": "5251540",
+    "Errors": "0",
+    "Checksum": "4c9d8e06291f90e0"
+  },
+  {
+    "Variant": "baseline",
+    "Run": 3,
+    "Seconds": 1.529903,
+    "MBps": 368.12,
+    "Hands": "671270",
+    "Players": "3490280",
+    "Actions": "5251540",
+    "Errors": "0",
+    "Checksum": "4c9d8e06291f90e0"
+  },
+  {
+    "Variant": "memchr",
+    "Run": 3,
+    "Seconds": 1.197812,
+    "MBps": 470.18,
+    "Hands": "671270",
+    "Players": "3490280",
+    "Actions": "5251540",
+    "Errors": "0",
+    "Checksum": "4c9d8e06291f90e0"
+  },
+  {
+    "Variant": "memchr",
+    "Run": 4,
+    "Seconds": 1.137346,
+    "MBps": 495.18,
+    "Hands": "671270",
+    "Players": "3490280",
+    "Actions": "5251540",
+    "Errors": "0",
+    "Checksum": "4c9d8e06291f90e0"
+  },
+  {
+    "Variant": "baseline",
+    "Run": 4,
+    "Seconds": 1.571519,
+    "MBps": 358.37,
+    "Hands": "671270",
+    "Players": "3490280",
+    "Actions": "5251540",
+    "Errors": "0",
+    "Checksum": "4c9d8e06291f90e0"
+  },
+  {
+    "Variant": "baseline",
+    "Run": 5,
+    "Seconds": 1.574339,
+    "MBps": 357.73,
+    "Hands": "671270",
+    "Players": "3490280",
+    "Actions": "5251540",
+    "Errors": "0",
+    "Checksum": "4c9d8e06291f90e0"
+  },
+  {
+    "Variant": "memchr",
+    "Run": 5,
+    "Seconds": 1.136952,
+    "MBps": 495.35,
+    "Hands": "671270",
+    "Players": "3490280",
+    "Actions": "5251540",
+    "Errors": "0",
+    "Checksum": "4c9d8e06291f90e0"
+  }
+]
